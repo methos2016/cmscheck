@@ -1,0 +1,4 @@
+cmscheck
+========
+
+CMS Install Checker
